@@ -146,16 +146,13 @@
       "nickname": "BaboSh1ro",
       "prefix": "",
       "style": {
-        "bold": true,
+        "bold": false,
         "gradient": {
           "enabled": true,
           "colors": [
-            "#FF9FCB",
-            "#FFC1DD",
-            "#E9C5FF",
-            "#C2B7FF",
-            "#A9DFFF",
-            "#7ED8FF"
+            "#FF93D9",
+            "#B4F9FF",
+            "#FFFFFF"
           ]
         }
       }
