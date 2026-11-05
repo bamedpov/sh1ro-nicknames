@@ -164,7 +164,7 @@
       "nickname": "GuiltyOwO",
       "prefix": "",
       "style": {
-        "bold": false,
+        "bold": true,
         "gradient": {
           "enabled": true,
           "colors": [
