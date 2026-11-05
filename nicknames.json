@@ -1,4 +1,178 @@
 {
-  "version": 1,
-  "players": {}
+  "version": 3,
+  "users": {
+    "29ce1e8a-ce7c-4e06-a18d-97ad10c07ec8": {
+      "nickname": "keiNy4N",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FFFFFF",
+            "#EAF4FF",
+            "#AEEBFF",
+            "#7FDBFF",
+            "#FFB6D9",
+            "#FF7FBC"
+          ]
+        }
+      }
+    },
+    "d54a5283-4d51-4033-bae9-b375677bc994": {
+      "nickname": "danmuzei",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#F5FBFF",
+            "#9ADAFF",
+            "#6FC5ED",
+            "#D5F0FF",
+            "#79C9EF",
+            "#A8DFFF",
+            "#4FA9DC",
+            "#1F6AAE"
+          ]
+        }
+      }
+    },
+    "93137a4c-db7b-4731-8e9a-de4c0cfabcc8": {
+      "nickname": "PepPer",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#111111",
+            "#444444",
+            "#888888",
+            "#CCCCCC",
+            "#F5F5F5"
+          ]
+        }
+      }
+    },
+    "09c4ffa2-f5d6-427d-8017-16088c6f1739": {
+      "nickname": "Stalumni",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#A8FFE9",
+            "#B9FFD8",
+            "#C8FFBF",
+            "#D8FFA8",
+            "#E6FF8A"
+          ]
+        }
+      }
+    },
+    "a34ae093-1ec7-42cf-aba0-4be2eaeb7df8": {
+      "nickname": "joy9985",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF69B4",
+            "#FF69B3"
+          ]
+        }
+      }
+    },
+    "6c61a053-bacd-4b5b-b704-133b62cacf2a": {
+      "nickname": "Lvua",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF4D4D",
+            "#FF9F43",
+            "#FFF200",
+            "#4DFF88",
+            "#4DD2FF",
+            "#8C5CFF",
+            "#FF4FD8"
+          ]
+        }
+      }
+    },
+    "6e5595f5-d5a8-4d3c-86b7-9802dcc1a7e3": {
+      "nickname": "CatgirlNBSKD",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#5B2EFF",
+            "#7B52FF",
+            "#A07BFF",
+            "#C5A8FF",
+            "#E3D6FF",
+            "#FFFFFF"
+          ]
+        }
+      }
+    },
+    "f755ccca-251e-4822-9d34-f6004dc7afdc": {
+      "nickname": "StartendGuri",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF8FCB",
+            "#FFB4DE",
+            "#B58CFF",
+            "#8A63E8",
+            "#59BFFF",
+            "#35A7FF"
+          ]
+        }
+      }
+    },
+    "b17f43fd-c218-4d91-b6ca-6cff126d61c7": {
+      "nickname": "RNGshitter",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF69B4",
+            "#FF69B3"
+          ]
+        }
+      }
+    },
+    "6d3c61e0-6124-408f-9942-18f40d83cf00": {
+      "nickname": "BojiSh1ro",
+      "prefix": "",
+      "style": {
+        "bold": true,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#FF9FCB",
+            "#FFC1DD",
+            "#E9C5FF",
+            "#C2B7FF",
+            "#A9DFFF",
+            "#7ED8FF"
+          ]
+        }
+      }
+    }
+  }
 }
