@@ -159,6 +159,22 @@
           ]
         }
       }
+    },
+    "1746aeed-3d44-4102-87c1-6563b8a57110": {
+      "nickname": "GuiltyOwO",
+      "prefix": "",
+      "style": {
+        "bold": false,
+        "gradient": {
+          "enabled": true,
+          "colors": [
+            "#34A0CB",
+            "#0EB697",
+            "#0EB697",
+            "#0E6BB6"
+          ]
+        }
+      }
     }
   }
 }
