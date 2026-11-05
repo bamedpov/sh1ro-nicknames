@@ -142,22 +142,8 @@
         }
       }
     },
-    "b17f43fd-c218-4d91-b6ca-6cff126d61c7": {
-      "nickname": "RNGshitter",
-      "prefix": "",
-      "style": {
-        "bold": true,
-        "gradient": {
-          "enabled": true,
-          "colors": [
-            "#FF69B4",
-            "#FF69B3"
-          ]
-        }
-      }
-    },
     "6d3c61e0-6124-408f-9942-18f40d83cf00": {
-      "nickname": "BojiSh1ro",
+      "nickname": "BaboSh1ro",
       "prefix": "",
       "style": {
         "bold": true,
