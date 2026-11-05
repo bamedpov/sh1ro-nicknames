@@ -146,7 +146,7 @@
       "nickname": "BaboSh1ro",
       "prefix": "",
       "style": {
-        "bold": false,
+        "bold": true,
         "gradient": {
           "enabled": true,
           "colors": [
