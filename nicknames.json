@@ -161,14 +161,10 @@
       "nickname": "GuiltyOwO",
       "prefix": "",
       "style": {
-        "bold": true,
+        "bold": false,
         "gradient": {
           "enabled": true,
           "colors": [
-            "#34A0CB",
-            "#0EB697",
-            "#0EB697",
-            "#0E6BB6"
           ]
         }
       }
